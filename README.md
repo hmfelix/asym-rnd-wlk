@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project I solve a gambler's ruin game where both players can go broke. I propose both an analytical solution and a numeric verification through a Python simulation. The game is equivalent to a two-barrier asymmetric random walk and has innumerous applications in several areas of physics, economics and life sciences.
+In this project I solve a gambler's ruin game where both players can go broke. I propose a straightforward analytical solution and as well a numeric verification by simulation in Python. The game is equivalent to a two-barrier asymmetric random walk which has innumerous applications in physics, economics, and life sciences.
 
 ## How to access
 
