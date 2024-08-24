@@ -123,3 +123,5 @@ p = 1 - q
 P_A_sim = 8/23
 T_sim = ( -15*P_A_sim + 8*(1 - P_A_sim) )
 T_sim
+
+
