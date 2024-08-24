@@ -8,8 +8,8 @@ import statistics as stats
 def caminhada(q = 1/2, s_0 = 0, inf = -15, sup = 8):
     # q eh a probabilidade de A doar para B
     # s_0 eh a posicao inicial
-    # lb eh a posicao em que A vai a falencia
-    # ub eh a posicao em que B vai a falencia
+    # inf eh a posicao em que A vai a falencia
+    # sup eh a posicao em que B vai a falencia
 
     # condicoes iniciais
     s = s_0
@@ -38,6 +38,7 @@ def caminhada(q = 1/2, s_0 = 0, inf = -15, sup = 8):
 def seq_caminhadas(n, q = 1/2):
     # n eh o numero de sequencias a serem geradas
     # q eh a probabilidade de A doar para B
+    #   (argumento passado a funcao caminhada)
     caminhadas = []
 
     # loop da funcao
