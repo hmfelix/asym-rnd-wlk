@@ -6,7 +6,7 @@ In this project I solve a gambler's ruin game where both players can go broke. I
 
 ## How to access
 
-I consolidate the analysis in a Jupyter Notebook file, which you can access [here](URL).
+I consolidate the analysis in a Jupyter Notebook file, which you can access [here](https://github.com/hmfelix/asym-rnd-wlk/blob/master/asym-rnd-wlk.ipynb).
 
 You can input your own parameters to modify the position of the absorbing barriers in the random walk.
 
